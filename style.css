@@ -211,6 +211,11 @@ label{
                 left: 20px;
             }
 
+            .selected .price{
+                font-size: 20px;
+
+            }
+
 
             .active h4{
                 font-size: 20px;
@@ -237,4 +242,8 @@ label{
             .header h3{
                 font-size: 20px;
             }
+
+
+            
+
             } 
