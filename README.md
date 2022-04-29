@@ -35,7 +35,7 @@ Web page is responsive for all mobile devices.
 
 
 
-Project Link: https://github.com/kateFrontend/To-Do-app
+Project Link: https://github.com/kateFrontend/Furniture-shop
 
 
 
