@@ -3,7 +3,7 @@
 
   <h1>Furniture store </h1>
   
-  <img src="" alt="">
+  <img src="Furniture.JPG" alt="Furniture">
  
 </div>
 
